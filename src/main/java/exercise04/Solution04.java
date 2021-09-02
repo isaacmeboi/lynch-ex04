@@ -20,3 +20,9 @@ public class Solution04 {
         System.out.println("Do you " + v +" your " + adj +" "+ n +" "+ adv +"? That's pretty cringe, bro.");
     }
 }
+/*almost forgot the puesdocode, sorry abt that. so the first thing that's done in this project is that
+java.util is imported for the scanner function. next a main function is declared. after that, an instance
+and declaration of the scanner function is made. after that there are numerous print statements for the
+prompts given to the user, after those are scanner functions to read in user's input. the last line of
+code (line 20) prints out all the user's inputs in the correct format.
+ */
