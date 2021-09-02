@@ -17,6 +17,6 @@ public class Solution04 {
         System.out.print("Enter an adverb: ");
         String adv = sc.nextLine();
 
-        System.out.println("Do you " + v +" your " + adj +" "+ n +" "+ adv +"? That's really cringe, bro.");
+        System.out.println("Do you " + v +" your " + adj +" "+ n +" "+ adv +"? That's pretty cringe, bro.");
     }
 }
